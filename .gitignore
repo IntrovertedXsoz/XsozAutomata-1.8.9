@@ -1,0 +1,17 @@
+# build output and caches
+/build/
+/.gradle/
+/out/
+/bin/
+# the dev game folder: logins, options, server lists, usernames - never published
+/run/
+/logs/
+# IDE files
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+/.settings/
+/.classpath
+/.project

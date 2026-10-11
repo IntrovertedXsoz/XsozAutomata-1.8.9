@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Xsoz Automata 1.8.9 PvP Edition",
+    "description": "A PvP client that plays like a person: human aim, human clicking, and the craft of 1.8 fighting.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["Xsoz"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
